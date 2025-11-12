@@ -9,9 +9,9 @@
 4. Business Recommendations/Insights
 
 ## Files
-- `ecommerce_cleaning.ipynb` — full notebook
+- `ecommerce_analysis_full.ipynb` — full notebook
 - `Ecommerce_Clean.csv` — prepared dataset
-- `Ecommerce_Dashboard.pbix` — Power BI dashboard
+- `ecommerce.pbix` — Power BI dashboard
 
 ## Note
 The dataset used in this notebook was originally much larger.
